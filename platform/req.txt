@@ -37,6 +37,8 @@ azure-mgmt-sql==0.5.3
 azure-mgmt-storage==1.0.0
 azure-mgmt-trafficmanager==0.30.0
 azure-mgmt-web==0.32.0
+
+
 azure-monitor==0.3.1
 azure-nspkg==2.0.0
 azure-servicebus==0.21.1
@@ -47,6 +49,7 @@ backports-abc==0.5
 beautifulsoup4==4.9.0
 boto3==1.9.145
 botocore==1.12.145
+
 certifi==2017.7.27.1
 cffi==1.11.2
 chardet==3.0.4
