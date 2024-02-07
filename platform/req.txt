@@ -69,6 +69,7 @@ jmespath==0.9.4
 jmxquery==0.6.0
 keyring==10.4.0
 MarkupSafe==1.1.1
+
 mock==3.0.5
 msrest==0.6.13
 msrestazure==0.6.3
@@ -88,6 +89,7 @@ pyparsing==2.4.7
 pysmi==0.3.4
 pysnmp==4.4.12
 python-dateutil==2.6.1
+
 pytz==2019.3
 pywbem==0.16.0
 pywinrm==0.4.1
