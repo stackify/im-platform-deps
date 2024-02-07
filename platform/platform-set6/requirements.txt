@@ -2,7 +2,7 @@ pytz==2019.3
 pywbem==0.16.0
 pywinrm==0.4.1
 PyYAML==5.2
-pyzmq==18.1.1
+# pyzmq==18.1.1
 redis==3.5.3
 requests==2.18.4
 requests-ntlm==1.1.0
